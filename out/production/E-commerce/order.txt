@@ -1,0 +1,37 @@
+Order Summary:
+Customer Name: KING
+Shipping Address: not b
+Total Cost: $2997
+
+Order Summary:
+Customer Name: kjk7
+Shipping Address: h
+Total Cost: $1598
+
+Selected Products:
+iPad Pro - $1099
+Sony PlayStation 5 - $499
+
+Order Summary:
+Customer Name: fghj
+Shipping Address: gt567y8
+Total Cost: $5223
+
+Selected Products:
+iPad Pro - $1099
+Dell XPS 15 - $1599
+Xbox Series X - $499
+Sony 65-Inch 4K Smart TV - $1299
+Bose QuietComfort 35 II - $349
+Apple AirPods Pro - $249
+Fitbit Charge 4 - $129
+
+Order Summary:
+Customer Name: ghjk
+Shipping Address: xcvgh90
+Total Cost: $2098
+
+Selected Products:
+Dell XPS 15 - $1599
+Sony PlayStation 5 - $499
+
